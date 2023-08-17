@@ -1,0 +1,82 @@
+
+
+body{
+  background-image: url("./laptopwithgoodview.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+}
+#logo{
+    color: gold;
+    font-size: xx-large;
+    font-weight: 700;
+  }
+  .btn:hover{
+    background: white;
+    border: 1px black solid;
+  }
+  #home{
+    font-size: x-large;
+    font-weight: 300;
+    margin-bottom: -6px;
+  }
+  #home:hover{
+    color: black;
+  }
+  #headinghr{
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+    width: 300px;
+  }
+  #formheading{
+    color: white;
+  }
+  #formlabel{
+    color: white;
+  }
+#register{
+  background: url(./laptopandtablate.jpeg);
+  
+background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+#show {
+  display: none;
+  color: #141a34;
+}
+.eyes {
+  position: relative;
+  color: #141a34;
+}
+#income{
+  display: none;
+}
+.powered{
+  color: green;
+  font-weight: 700;
+}
+#by{
+  color: brown;
+}
+#pimage img{
+  width: 60px;
+  height: 60px;
+  border-radius: 4px;
+}
+#footer{
+  background: #141a34;
+  width: 100%;
+  margin-bottom: -50px;
+}
+#social img{
+  padding: 30px;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
